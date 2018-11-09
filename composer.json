@@ -10,8 +10,19 @@
             "email": "perini105@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
+        "php": ">=7.0",
         "aws/aws-sdk-php": "^3.1"
-    }
+    },
+    "autoload": {
+        "psr-4": { "LeandroPerini\\DynamoReplicator\\": "src/" }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LeandroPerini\\DynamoReplicator\\DynamoReplicatorServiceProvider"
+            ]
+        }
+}
 }
