@@ -3,7 +3,7 @@
     "description": "A simple copy paste for AWS DynamoDB Table Items for Laravel/Lumen",
     "keywords": ["dynamo", "aws", "lumen", "laravel", "dump", "copy", "import"],
     "type": "library",
-    "license": "GPL 3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Leandro Perini",
