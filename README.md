@@ -1,7 +1,7 @@
 # dynamoReplicator
 A simple copy paste for AWS DynamoDB Table Items for Laravel/Lumen
 
-## Instalation
+## Installation
 
 The Dynamo Replicator can be installed via [Composer](http://getcomposer.org) by requiring the
 `leandroperini/dynamo-replicator` package in your project's `composer.json`.
