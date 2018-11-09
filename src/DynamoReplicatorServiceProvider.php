@@ -1,5 +1,5 @@
 <?php
-namespace Leandroperini\DynamoReplicator;
+namespace LeandroPerini\DynamoReplicator;
 
 use Illuminate\Support\ServiceProvider;
 
