@@ -9,7 +9,7 @@ The Dynamo Replicator can be installed via [Composer](http://getcomposer.org) by
 ```json
 {
     "require": {
-        "leandroperini/dynamo-replicator": "*"
+        "leandroperini/dynamo-replicator": "^1.0.2"
     }
 }
 ```
