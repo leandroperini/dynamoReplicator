@@ -1,0 +1,14 @@
+{
+    "name": "leandroperini/dynamo-replicator",
+    "description": "A simple copy paste for AWS DynamoDB Table Items for Laravel/Lumen",
+    "type": "library",
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Leandro Perini",
+            "email": "perini105@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
