@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands;
+namespace LeandroPerini\DynamoReplicator;
 
 use Illuminate\Console\Command;
 use Aws\DynamoDb\DynamoDbClient;
@@ -13,7 +13,7 @@ class DynamoReplicator extends Command
     protected $signature = 'dynamo:import 
     {origin_table} {destination_table} 
     {--ok=} {--os=} 
-    {--dk=} {--ds=}
+    {--dk=} {--ds=} 
     {--or=us-east-1}
     {--dr=us-east-1}
     {--oe=default}
