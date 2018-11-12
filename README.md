@@ -1,5 +1,6 @@
 # dynamoReplicator
 A simple copy paste for AWS DynamoDB Table Items for Laravel/Lumen
+It helps when you need to copy a dump of DynamoDB table content and import to another table, location or account.
 
 ## Installation
 
@@ -9,7 +10,7 @@ The Dynamo Replicator can be installed via [Composer](http://getcomposer.org) by
 ```json
 {
     "require": {
-        "leandroperini/dynamo-replicator": "^1.0.2"
+        "leandroperini/dynamo-replicator": "^1.0.3"
     }
 }
 ```
