@@ -10,7 +10,7 @@
             "email": "perini105@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.3",
     "require": {
         "php": ">=7.0",
         "aws/aws-sdk-php": "^3.1"
