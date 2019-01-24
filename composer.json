@@ -1,7 +1,7 @@
 {
     "name": "leandroperini/dynamo-replicator",
     "description": "A simple copy paste for AWS DynamoDB Table Items for Laravel/Lumen",
-    "keywords": ["dynamo", "aws", "lumen", "laravel", "dump", "copy", "import"],
+    "keywords": ["dynamo", "aws", "lumen", "laravel", "dump", "copy", "import", "replicate", "duplicate", "transfer", "deploy", "download", "upload"],
     "type": "library",
     "license": "GPL-3.0-or-later",
     "authors": [
